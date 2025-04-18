@@ -7,7 +7,7 @@
 📲 Mobile Recharge – Recharge your mobile balance 
 📊 MyCkash Overview – View your current balance and recent transactions
 
-🧱 Tech Stac
+🧱 Tech Stac - 
 Language: Java, Concepts Used: Classes, Objects, Inheritance, Abstraction, Encapsulatio, Tools: IntelliJ IDEA , JDK 17
 
 📸Screenshots
